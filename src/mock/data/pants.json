@@ -1,0 +1,27 @@
+{
+    "pants": [{
+            "img": "pants1.png",
+            "title": "休闲裤-卡其色604-350#",
+            "text": "意大利进口 MARZONI 休闲裤",
+            "price": "￥1499.00"
+        },
+        {
+            "img": "pants2.png",
+            "title": "休闲裤-宝蓝色604-334#",
+            "text": "意大利进口 MARZONI 休闲裤",
+            "price": "￥1599.00"
+        },
+        {
+            "img": "pants3.png",
+            "title": "休闲裤-藏蓝色604-362#",
+            "text": "意大利进口 MARZONI 休闲裤",
+            "price": "￥2299.00"
+        },
+        {
+            "img": "pants4.png",
+            "title": "休闲裤-藏青色604-365#",
+            "text": "意大利进口 MARZONI 休闲裤",
+            "price": "￥899.00"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "suit": [{
+            "img": "suit1.png",
+            "title": "灰黑色人字纹商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥1499.00"
+        },
+        {
+            "img": "suit2.png",
+            "title": "烟灰色人字纹套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥1599.00"
+        },
+        {
+            "img": "suit3.png",
+            "title": "浅灰商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥299.00"
+        },
+        {
+            "img": "suit4.png",
+            "title": "炭灰色蓝格纹商务套西",
+            "text": "意大利进口 MARZONI 休闲裤",
+            "price": "￥899.00"
+        },
+        {
+            "img": "suit5.png",
+            "title": "藏青色竖条纹商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥499.00"
+        },
+        {
+            "img": "suit6.png",
+            "title": "高级灰双排扣商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥599.00"
+        },
+        {
+            "img": "suit7.png",
+            "title": "高级灰紫条纹商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥2299.00"
+        },
+        {
+            "img": "suit8.png",
+            "title": "浅灰色人字纹商务套西",
+            "text": "意大利进口Zegna100%羊毛",
+            "price": "￥1899.00"
+        }
+    ]
+}

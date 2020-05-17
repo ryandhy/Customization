@@ -1,0 +1,15 @@
+{
+    "share": [{
+            "img": "wechat.png",
+            "title": "微信"
+        },
+        {
+            "img": "wechats.png",
+            "title": "朋友圈"
+        },
+        {
+            "img": "qq.png",
+            "title": "QQ"
+        }
+    ]
+}

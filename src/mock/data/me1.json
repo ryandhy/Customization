@@ -1,0 +1,39 @@
+{
+    "me1": [{
+            "img": "orders-o",
+            "title": "我的订单"
+        },
+        {
+            "img": "bag-o",
+            "title": "购物袋"
+        },
+        {
+            "img": "bill-o",
+            "title": "优惠券"
+        },
+        {
+            "img": "star-o",
+            "title": "我的收藏"
+        },
+        {
+            "img": "records",
+            "title": "预约量体"
+        },
+        {
+            "img": "gift-card-o",
+            "title": "礼品卡"
+        },
+        {
+            "img": "photo-o",
+            "title": "拍照量体"
+        },
+        {
+            "img": "smile-o",
+            "title": "形体数据"
+        },
+        {
+            "img": "friends-o",
+            "title": "邀请好友"
+        }
+    ]
+}

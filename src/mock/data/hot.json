@@ -1,0 +1,18 @@
+{
+    "hot": [{
+            "img": "hot-black.png",
+            "title": "墨绿纽扣领衬衫",
+            "price": "￥1499.00"
+        },
+        {
+            "img": "hot-blue.png",
+            "title": "活力蓝色衬衫",
+            "price": "￥999.00"
+        },
+        {
+            "img": "hot-gray.png",
+            "title": "蓝灰色双排扣商务套",
+            "price": "￥9999.00"
+        }
+    ]
+}

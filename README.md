@@ -1,24 +1,22 @@
-# myapp
+# 订衣 app(移动端)
 
-## Project setup
+## 此项目使用 vue 全家桶开发端移动端，可作为练习使用。项目除用户信息外所有数据皆为 mock。用户信息存储在 MongoDB 中。后端采用 Nodejs 搭建服务并连接 Mongo + 并使用 express 实现路由。
+
+### 启动项目前请先安装必要依赖
+
 ```
-npm install
+推荐使用：yarn
 ```
 
-### Compiles and hot-reloads for development
+### 服务启动
+
+```
+cd /src/server
+node server
+```
+
+### 项目启动
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

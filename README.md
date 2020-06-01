@@ -4,12 +4,12 @@
 
 ### 相关使用依赖
 
-[axios](http://www.axios-js.com/)
-[mockjs](http://mockjs.com/)\
-[mongoose](http://www.mongoosejs.net/)
-[vant](https://youzan.github.io/vant/#/zh-CN/)
-[vue-router](https://cn.vuejs.org/v2/guide/routing.html)
-[vuex](https://vuex.vuejs.org/zh/)
+* [axios](http://www.axios-js.com/)
+* [mockjs](http://mockjs.com/)\
+* [mongoose](http://www.mongoosejs.net/)
+* [vant](https://youzan.github.io/vant/#/zh-CN/)
+* [vue-router](https://cn.vuejs.org/v2/guide/routing.html)
+* [vuex](https://vuex.vuejs.org/zh/)
 
 ### 启动项目前请先安装必要依赖
 

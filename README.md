@@ -2,6 +2,15 @@
 
 ## 此项目使用 vue 全家桶开发端移动端，可作为练习使用。UI 库使用 vant。项目除用户信息外所有数据皆为 mock。用户信息存储在 MongoDB 中。后端采用 Nodejs 搭建服务并连接 Mongo + 并使用 express 实现路由。
 
+### 相关使用依赖
+
+[axios](http://www.axios-js.com/)
+[mockjs](http://mockjs.com/)\
+[mongoose](http://www.mongoosejs.net/)
+[vant](https://youzan.github.io/vant/#/zh-CN/)
+[vue-router](https://cn.vuejs.org/v2/guide/routing.html)
+[vuex](https://vuex.vuejs.org/zh/)
+
 ### 启动项目前请先安装必要依赖
 
 ```

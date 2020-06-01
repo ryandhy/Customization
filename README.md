@@ -5,7 +5,7 @@
 ### 相关使用依赖
 
 * [axios](http://www.axios-js.com/)
-* [mockjs](http://mockjs.com/)\
+* [mockjs](http://mockjs.com/)
 * [mongoose](http://www.mongoosejs.net/)
 * [vant](https://youzan.github.io/vant/#/zh-CN/)
 * [vue-router](https://cn.vuejs.org/v2/guide/routing.html)
